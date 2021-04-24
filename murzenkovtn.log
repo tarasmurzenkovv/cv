@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.4.15)  15 APR 2021 15:19
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.4.15)  24 APR 2021 15:30
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -514,11 +514,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 44--45
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 56.
+(Font)              <7> on input line 55.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 56.
+(Font)              <5> on input line 55.
 
-Underfull \hbox (badness 10000) in paragraph at lines 124--124
+Underfull \hbox (badness 10000) in paragraph at lines 127--127
 
  []
 
@@ -527,19 +527,13 @@ AED: lastpage setting LastPage
 [1
 
 ] (./murzenkovtn.aux)
-
-Package rerunfilecheck Warning: File `murzenkovtn.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `murzenkovtn.out':
-(rerunfilecheck)             Before: C598EABAF1F6186B8DB1E570C1304C4E;98
-(rerunfilecheck)             After:  6B05F30AFC470A3C1431E34FEBE1966C;214.
+Package rerunfilecheck Info: File `murzenkovtn.out' has not changed.
+(rerunfilecheck)             Checksum: 6B05F30AFC470A3C1431E34FEBE1966C;214.
  ) 
 Here is how much of TeX's memory you used:
  11343 strings out of 476919
  220170 string characters out of 5821840
- 593862 words of memory out of 5000000
+ 593970 words of memory out of 5000000
  31199 multiletter control sequences out of 15000+600000
  406916 words of font info for 46 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
