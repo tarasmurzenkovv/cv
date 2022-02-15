@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2022.2.13)  14 FEB 2022 19:36
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2022.2.13)  15 FEB 2022 10:39
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -527,13 +527,22 @@ AED: lastpage setting LastPage
 [1
 
 ] (./murzenkovtn.aux)
-Package rerunfilecheck Info: File `murzenkovtn.out' has not changed.
-(rerunfilecheck)             Checksum: 6B05F30AFC470A3C1431E34FEBE1966C;214.
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package rerunfilecheck Warning: File `murzenkovtn.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `murzenkovtn.out':
+(rerunfilecheck)             Before: 64652C0FFD6E222A90DAD4904DCF55EA;211
+(rerunfilecheck)             After:  6B05F30AFC470A3C1431E34FEBE1966C;214.
  ) 
 Here is how much of TeX's memory you used:
  11343 strings out of 476919
  220170 string characters out of 5821840
- 593970 words of memory out of 5000000
+ 593964 words of memory out of 5000000
  31199 multiletter control sequences out of 15000+600000
  406916 words of font info for 46 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
