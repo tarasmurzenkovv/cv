@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2022.2.13)  9 AUG 2022 11:14
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2022.2.13)  16 AUG 2022 10:28
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -518,12 +518,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 53.
 
-Underfull \hbox (badness 10000) in paragraph at lines 96--96
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 96--96
+Underfull \hbox (badness 10000) in paragraph at lines 95--95
 
  []
 
