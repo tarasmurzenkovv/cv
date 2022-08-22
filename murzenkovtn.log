@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2022.2.13)  21 AUG 2022 17:45
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2022.2.13)  22 AUG 2022 15:00
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -518,22 +518,17 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 53.
 
-Underfull \hbox (badness 10000) in paragraph at lines 126--126
-
- []
-
-
 AED: lastpage setting LastPage
 [1
 
 ] (./murzenkovtn.aux)
 Package rerunfilecheck Info: File `murzenkovtn.out' has not changed.
-(rerunfilecheck)             Checksum: 6B05F30AFC470A3C1431E34FEBE1966C;214.
+(rerunfilecheck)             Checksum: 07FD5D389FDA9B5A1D6F1D0DDBED43EE;126.
  ) 
 Here is how much of TeX's memory you used:
  11343 strings out of 476919
  220170 string characters out of 5821840
- 594970 words of memory out of 5000000
+ 595861 words of memory out of 5000000
  31199 multiletter control sequences out of 15000+600000
  406916 words of font info for 46 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
