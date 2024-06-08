@@ -41,22 +41,22 @@
 %	NAME AND CONTACT INFORMATION
 %----------------------------------------------------------------------------------------
 
-\title{Taras Murzenkov } % Print the main header
+\title{Taras Murzenkov (Senior Software Engineer) } % Print the main header
 
 %------------------------------------------------
 
 \parbox{0.2\textwidth}{ % First block
 \begin{tabbing} % Enables tabbing
 \hspace{3cm} \= \hspace{4cm} \= \kill % Spacing within the block
-{\bf Mobile Phone} \>+38 (096)-969-16-49\\ % Mobile phone
-{\bf Email} \> \href{mailto:murzenkovtn@gmail.com}{murzenkovtn@gmail.com} \\ % Email address
+{\bf Mobile Phone} \>+34607046133\\ 
+{\bf Email} \> \href{mailto:murzenkovtn@gmail.com}{murzenkovtn@gmail.com} % Mobile phone
+
 \end{tabbing}}
 \hfill % Horizontal space between the two blocks
 \parbox{0.5\textwidth}{ % Second block
 \begin{tabbing} % Enables tabbing
 \hspace{3cm} \= \hspace{4cm} \= \kill % Spacing within the block
-{\bf LinkedIn} \> \href{https://www.linkedin.com/in/tarasmurzenkov}{LinkedIn, click to view} \\ % LinkedIn address
-{\bf GitHub} \> \href{https://github.com/tarasmurzenkovv/}{Current projects, click to view}\\ % GitHub address
+\\ % Email address
 \end{tabbing}}
 
 %{
@@ -71,53 +71,51 @@
 %----------------------------------------------------------------------------------------
 %	EMPLOYMENT HISTORY SECTION
 %----------------------------------------------------------------------------------------
-\section{Recent Positions}
+\section{Experience}
 \job
 {Oct. 2022 }{ Current}
-{Masabi}
+{Masabi, the United Kingdom}
 {http://masabi.com}
-{\textbf{Senior Software Engineer}}
+{\textbf{Senior Java/Kotlin Software Engineer}}
 {
 \textbf{}   
-\\$\bullet$ Designed the solution and created the scalable RESTful service for IoT devices that improved their configurations update process
-\\$\bullet$ Developed the event-driven cross-database replication service that allowed to have the loose coupling between microservices
-\\$\bullet$ Enhanced deployment efficiency by refining the CI pipeline, resulting in a 40% increase in daily deployments
+\\$\bullet$ Delivered RESTful service that improved IoT provisioning process by reducing hardware errors to 30\%
+\\$\bullet$ Developed the data replication service that lessened data-miss errors by 10\% 
+\\$\bullet$ Reduced by 65\% the latency of the critical end-points by optimising and caching SQL queries
+\\$\bullet$ Tweaked AWS Lambda startup by 65\% through incorporation AWS SnapStart
+\\$\bullet$ Refined CD pipelines resulting in a 40\% increase in daily deployments
 \\$\bullet$ Incorporated ADR process so that each team member could review the architectural proposal
 \\$\bullet$ Introduced API first development by brining the necessary code generators and enhancing the release pipeline
-\\$\bullet$ Migrated the legacy Bamboo CI pipelines to GitLab
 \vadjust{\vspace{4pt}}
 \newline
 \textbf{Tech. stack: }{Kotlin, Java 17, Python, Terraform, AWS (Lambda, DynamoDB, API Gateway, SQS, RDS), Apache Kafka, SpringBoot, http4k, Gradle, Maven, Cucumber, jUnit, WireMock, Testcontainers, GitLab, Bamboo}   
  }
 \job
 {Nov. 2018 }{ Oct. 2022}
-{Intellias}
+{Intellias, Germany}
 {http://intellias.ua/}
-{\textbf{Senior Software Engineer}}
+{\textbf{Senior Java/Kotlin Software Enginee}}
 {
 \textbf{}   
-\\$\bullet$ Took the full design and delivery ownership of the two core features (Customer profile service and Analytics integration service): designed the solution architecture, wrote implementation and rolled out to production. 
+\\$\bullet$ Designed and delivered to the production two core web services
 \\$\bullet$ Integrated into the GitLab CI the E2E testing pipeline that increased the deployment frequency
-\\$\bullet$ Reduced by 30\% response latency of the critical service by batching ElasticSearch queries 
-\\$\bullet$ Created library to detect N+1 JPQL problem, used it in integration tests so that the overall query latency was improved by 70\% 
-\\$\bullet$ Designed and implemented 2 mathematical models as JAR files to asses leaching and run-off risks, 
-integrated them in the Sustainability Project so that customers had the ability to apply active ingredients in the sustainable manner
+\\$\bullet$ Produced library to detect N+1 JPQL problem and used it to improve the query latency by 70\% 
+\\$\bullet$ Published implementation of the 2 mathematical models and incorporated them in the business critical processes
 \vadjust{\vspace{4pt}}
-\newline
 \textbf{Tech. stack: }{Kotlin, Java 8-17, Terraform, Kubernetes, Docker, PostgreSQL, Redis, Apache Kafka, SpringBoot, Spring Reactor, Hibernate, Gradle, jUnit, WireMock, Testcontainers, Jenkins}   
  }
 \job
 {Oct. 2017}{Nov. 2018}
-{EPAM}
+{EPAM, Ukrain}
 {http://epam.ua/}
-{\textbf{Software Engineer}}
+{\textbf{Java Software Software Engineer}}
 {
 \textbf{}    
-\\$\bullet$ Reduced the number of http errors by 50 \% in service-to-service communications during unexpected request spikes by integrating reactive libraries 
-\\$\bullet$ Improved release process by creating automatic regression E2E test suite, integrating into Jenkins pipeline that lead to 1 man-day reduction in QA team 
-\\$\bullet$ Improved the test coverage to 90\% and fixed Sonar Qube issues during Company audit process
-\\$\bullet$ Designed, run load testing and optimised importing process by tuning Hibernate sequence generating algorithm so that the throughput was increased by 40\%
-\\$\bullet$ Created, integrated service that fetched OFAC data so that the system had the up to date information about sanctioned entities
+\\$\bullet$ Reduced the number of http errors by 50 \% in service-to-service communications by integrating reactive libraries 
+\\$\bullet$ Boosted release process by creating and integrating into CI automatic regression E2E test suite
+\\$\bullet$ Enhanced the test coverage to 90\% and fixed Sonar Qube issues during Company audit process
+\\$\bullet$ Designed, load tested and optimised data importing process so that the throughput was increased by 40\%
+\\$\bullet$ Created, integrated service that fetched OFAC data resulting in saving 5\% of employee daily time 
 \vadjust{\vspace{4pt}}
 \newline
 \textbf{Tech. stack: }{Java 8, Kubernetes, Docker, PostgreSQL, Redis, Apache Kafka, SpringBoot, Hibernate, Gradle, jUnit, WireMock, Jenkins, Sonar Qube}  
@@ -125,7 +123,7 @@ integrated them in the Sustainability Project so that customers had the ability 
 
 \job
 {Jun. 2015}{Oct. 2017}
-{DataArt}
+{DataArt, Ukraine}
 {http://dataart.ua/}
 {\textbf{Software Engineer}}
 {
@@ -134,10 +132,18 @@ integrated them in the Sustainability Project so that customers had the ability 
 \\$\bullet$ Refactored Liquibase migration set to allow migration database changes from Oracle to MS SQL Server
 \\$\bullet$ Improved unit test coverage to 90\% to support refactoring of the legacy code base
 \\$\bullet$ Incorporated code quality metrics to reduce code complexity and improve feature delivery process
-\\$\bullet$ Created and executed load testing to access the current system architecture and identify existing bottleneck 
+\\$\bullet$ Planned and executed load testing to access the current system architecture and identify existing bottlenecks
 \vadjust{\vspace{4pt}}
 \newline
 \textbf{Tech. stack: }{Java 7-8, SpringBoot, Hibernate, Apache POI, Oracle DB, Gradle, jUnit, WireMock, Jenkins, Sonar Qube}  
+ }
+ 
+ \section{Education}
+ {
+ \textbf{}  
+ \\$\bullet$ MSc in "Financial management"  - \href{https://www.vlerick.com/en}{Vlerick Business School, Belgium, Ghent}
+\\$\bullet$  MSc in Risk Management  - \href{https://www.hse.ru}{State University  Higher School of Economics}
+\\$\bullet$  BS in Applied Mathematics and Statistics - \href{http://www.msu.ru/en/}{Lomonosov Moscow State University, Russia}
  }
 
 
