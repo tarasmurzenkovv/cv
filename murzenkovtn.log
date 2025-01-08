@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.12.6)  8 JAN 2025 16:09
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.12.6)  8 JAN 2025 16:36
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -505,11 +505,19 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 54.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 54.
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--143
+
+ []
+
 [1
 
 ] 
 enddocument/afterlastpage: lastpage setting LastPage.
 (./murzenkovtn.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package rerunfilecheck Info: File `murzenkovtn.out' has not changed.
 (rerunfilecheck)             Checksum: 209EFD3CAA03DC0FDF086A79B372FE79;181.
  ) 
